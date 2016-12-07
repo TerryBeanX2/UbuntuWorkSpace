@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/es6/node_modules" />
       <excludeFolder url="file://$MODULE_DIR$/node/mongooseExpress" />
       <excludeFolder url="file://$MODULE_DIR$/node/node_modules" />
       <excludeFolder url="file://$MODULE_DIR$/nodeServer/expressTerry" />

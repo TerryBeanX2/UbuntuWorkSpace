@@ -1,0 +1,1 @@
+{"version":3,"sources":["es6.js"],"names":[],"mappings":";;AAAA,CAAC,CAAD,EAAG,CAAH,EAAK,CAAL,EAAQ,GAAR,CAAY;AAAA,SAAG,IAAE,CAAL;AAAA,CAAZ","file":"es6-compiled.js","sourcesContent":["[1,2,3].map(x=>x*x);\n"]}
