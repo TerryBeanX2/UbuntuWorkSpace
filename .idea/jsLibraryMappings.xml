@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+<<<<<<< HEAD
+=======
+    <includedPredefinedLibrary name="ECMAScript 6" />
+>>>>>>> b64cf13902da13c1f4361eeeea3c27af395d5601
     <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
